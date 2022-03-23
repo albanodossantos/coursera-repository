@@ -1,0 +1,28 @@
+NOTE 1
+
+Wetlands in Southern Africa are highly productive and biologically 
+diverse ecosystems that contribute significantly to livelihood and 
+economic development. 
+
+They are, however, undergoing significant pressure from both human activities 
+and natural phenomena, including agriculture, land cover and land use change, 
+human settlements, water harvesting, invasive species infestation, 
+climate change and unsustainable development practices. 
+
+The future of these wetlands is therefore dependent on effective assessment 
+and monitoring initiatives that can inform policy and decision making to 
+promote sustainable management. 
+So far, inadequate human and institutional capacity and traditional data sources, 
+as well as the lack of suitable and applicable spatial data, 
+constrain effective wetland management efforts
+
+NOTE 2
+
+The WeMAST has been developed and implemented an EO-based platform that 
+supports Sustainable Wetland Assessment and Monitoring Services, 
+promote policy and management practices in the SADC region, 
+utilize open source Satellite-based EO data and existing free software to explore:
+•	hydrological and wetland Models applicable to the selected basins across Southern Africa
+•	in situ data gathered from the four basins: flood regime (duration, extent, and timing), wetland inventory and landuse, vegetation dynamics (cover, density, and phenology).
+•	weather and climate information from free and operational climate services
+•	archived satellite-based EO data are coming from the Copernicus missions, Landsat series, MODIS Aqua/Terra products
